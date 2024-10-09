@@ -1,4 +1,4 @@
-﻿# BankSystem
+﻿# BankSystem (Pet Project)
 
 Java RESTful API for money transfers between customers accounts
 
